@@ -1,0 +1,48 @@
+﻿Build started 04/03/2014 2:40:27 AM.
+     1>Project "C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Game_2013\Game_2013.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Game_2013.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Game_2013\\SFML\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D SFML_STATIC /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SoundManager.cpp
+         SoundManager.cpp
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Release\Game_2013.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Game_2013\\SFML\lib" "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Game_2013.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Release\Game_2013.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Release\Game_2013.lib" /MACHINE:X86 Release\Animation.obj
+         Release\BaseEntity.obj
+         Release\BoundingSphere.obj
+         Release\Camera.obj
+         Release\CatmullPath.obj
+         Release\Enemy.obj
+         Release\EntityManager.obj
+         Release\EventManager.obj
+         Release\Game.obj
+         Release\Item.obj
+         Release\ItemSpawner.obj
+         Release\main.obj
+         Release\MessageRelay.obj
+         Release\Model.obj
+         Release\NavMesh.obj
+         Release\OrientationPath.obj
+         Release\Particle.obj
+         Release\ParticleManager.obj
+         Release\ParticleSystem.obj
+         Release\Player.obj
+         Release\Projectile.obj
+         Release\QuickBeats.obj
+         Release\SoundManager.obj
+         Release\VertexBuffer.obj
+         Release\Weapon.obj
+         Generating code
+         Finished generating code
+         Game_2013.vcxproj -> C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Release\Game_2013.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Release\Game_2013.exe;#1" /manifest Release\Game_2013.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Game_2013.unsuccessfulbuild".
+         Touching "Release\Game_2013.lastbuildstate".
+     1>Done Building Project "C:\Users\100488898\Dropbox\Universe A\Programming\Game_2013\Game_2013\Game_2013.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69

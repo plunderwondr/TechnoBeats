@@ -1,0 +1,186 @@
+﻿Build started 25/11/2013 4:20:10 PM.
+     1>Project "C:\Users\100488246\Dropbox\Universe A\Programming\Game_2013\Game_2013\Game_2013.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Game_2013.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\100488246\Dropbox\Universe A\Programming\Game_2013\Game_2013\\SFML\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D SFML_STATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Animation.cpp BaseEntity.cpp BoundingSphere.cpp Enemy.cpp EntityManager.cpp EventManager.cpp Game.cpp Item.cpp ItemSpawner.cpp MessageRelay.cpp Model.cpp Particle.cpp ParticleManager.cpp ParticleSystem.cpp Player.cpp Projectile.cpp QuickBeats.cpp Weapon.cpp
+         QuickBeats.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(199): warning C4060: switch statement contains no 'case' or 'default' labels
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(208): warning C4060: switch statement contains no 'case' or 'default' labels
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(230): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(235): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(240): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.cpp(248): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+         Projectile.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+         Player.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\player.cpp(54): warning C4305: 'argument' : truncation from 'double' to 'float'
+         ParticleSystem.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(15): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(139): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(145): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(214): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(222): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(226): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(230): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(234): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(238): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(242): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(246): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(250): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(254): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(258): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(262): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(266): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(270): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(274): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(278): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(284): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(290): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(296): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(302): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(308): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(314): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(320): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(326): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\particlesystem.cpp(419): warning C4244: '=' : conversion from 'const float' to 'unsigned int', possible loss of data
+         ParticleManager.cpp
+         Particle.cpp
+         Model.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(99): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(100): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(101): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(104): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(105): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(106): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(109): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(110): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\model.cpp(111): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+         MessageRelay.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\messagerelay.cpp(37): warning C4305: 'argument' : truncation from 'double' to 'float'
+         ItemSpawner.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+         Item.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+         Game.cpp
+         EventManager.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\eventmanager.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\eventmanager.cpp(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\eventmanager.cpp(54): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\eventmanager.cpp(59): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+         EntityManager.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.cpp(104): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+         Enemy.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(34): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(38): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(50): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(62): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\enemy.cpp(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+         BoundingSphere.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+         BaseEntity.cpp
+         Animation.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Weapon.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\100488246\Documents\Programming\Game_2013\SFML\include /I"C:\Users\100488246\Dropbox\Universe A\Programming\Game_2013\Game_2013\\SFML\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D SFML_STATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\entitymanager.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(15): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(15): error C2371: 'Game' : redefinition; different basic types
+                 c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\quickbeats.h(16) : see declaration of 'Game'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(44): error C2227: left of '->setNewWindowSize' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(45): error C2227: left of '->setScreenSize' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(57): error C2440: '=' : cannot convert from 'QuickBeats *' to 'int *'
+                 Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(63): error C2227: left of '->initializeGame' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(80): error C2227: left of '->keyboardDown' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(84): error C2227: left of '->keyboardUp' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(88): error C2227: left of '->mouseClicked' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(92): error C2227: left of '->mouseClicked' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(95): error C2227: left of '->mouseMoved' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(98): error C2227: left of '->update' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>c:\users\100488246\dropbox\universe a\programming\game_2013\game_2013\main.cpp(101): error C2227: left of '->draw' must point to class/struct/union/generic type
+                 type is 'int *'
+     1>Done Building Project "C:\Users\100488246\Dropbox\Universe A\Programming\Game_2013\Game_2013\Game_2013.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:23.31

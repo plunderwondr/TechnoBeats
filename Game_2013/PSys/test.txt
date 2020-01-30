@@ -1,0 +1,24 @@
+SysPos: 0.0,0.0,0.0
+SysVel: 0.0,0.0,0.0
+SysSpreadMin: -1.5,0.0,-1.5
+SysSpreadMax: 1.5,0.0,1.5
+SysSpawnMin: 0.0,0.0,0.0
+SysSpawnMax: 0.0,0.0,0.0
+SysLifeDev: 0.1
+SysScaleDev: 0.3
+SysExplosion: 0
+SysRunType: 0
+SysRunTime: 10.0
+
+SysDir: 0.0,1.0,0.0
+SysRight: 1.0,0.0,0.0
+
+PartInitCol: 1.0,0.3,1.0,1.0
+PartDecaCol: 0.0,0.5,1.0,0.6
+PartLife: 0.3
+PartMaxSpeed: 1000.0
+PartMass: 1.0
+PartScale: 1.0
+PartShrink: 0.001
+PartApplyForce:0.0,0.0,0.1
+PartFile: Particle/test.png

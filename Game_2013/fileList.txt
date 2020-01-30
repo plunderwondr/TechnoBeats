@@ -1,0 +1,4 @@
+p: OBJ/PlayerShip.obj Tex/Body_UV.png
+e: OBJ/Drone.obj Tex/Drone_Tex.png Enemy/Drone.txt
+e: OBJ/ZigZagger.obj Tex/ZigZagger.png Enemy/ZigZagger.txt
+i: OBJ/TestPower.obj Tex/test.png 1.0

@@ -1,0 +1,289 @@
+﻿  Animation.cpp
+  BaseEntity.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BoundingSphere.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  Camera.cpp
+  CatmullPath.cpp
+  Enemy.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(31,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(39,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(43,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(49,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(55,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(61,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(67,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(73,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Enemy.cpp(79,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  EntityManager.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+  EventManager.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EventManager.cpp(34,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EventManager.cpp(44,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EventManager.cpp(52,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EventManager.cpp(59,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  Game.cpp
+  Item.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  ItemSpawner.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  MessageRelay.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\MessageRelay.cpp(37,45): warning C4305: 'argument': truncation from 'double' to 'var'
+          with
+          [
+              var=float
+          ]
+  Model.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(168,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(180,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(186,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(192,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(198,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Model.cpp(205,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  NavMesh.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(50,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(50,81): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(53,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(55,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(61,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(61,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(63,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(63,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(69,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(69,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(69,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(71,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(73,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(78,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(78,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(80,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(80,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(86,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(86,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(86,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(88,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(90,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(95,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(95,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(97,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(97,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(20,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(28,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(33,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(45,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(110,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(145,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\NavMesh.cpp(177,21): warning C4018: '<=': signed/unsigned mismatch
+  OrientationPath.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(39,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(40,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(110,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(111,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(158,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(161,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(161,87): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(180,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(183,59): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\Quaternion.h(183,95): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Particle.cpp
+  ParticleManager.cpp
+  ParticleSystem.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(15,33): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(139,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(145,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(203,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(214,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(222,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(226,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(230,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(234,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(238,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(242,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(246,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(250,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(254,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(258,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(262,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(266,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(270,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(274,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(278,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(284,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(290,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(296,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(302,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(308,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(314,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(320,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(326,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\ParticleSystem.cpp(419,41): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  Projectile.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  Compiling...
+  QuickBeats.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(16,9): warning C4101: 'y': unreferenced local variable
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(16,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(783,2): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(792,2): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(811,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(816,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(821,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(826,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\QuickBeats.cpp(834,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+  SoundManager.cpp
+  Weapon.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\BaseEntity.h(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Game_2013\EntityManager.h(32,21): warning C4018: '<': signed/unsigned mismatch
+  VertexBuffer.cpp
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-graphics-s.lib(Color.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(Window.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(VideoMode.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(Mouse.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(WindowImpl.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(JoystickManager.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-system-s.lib(String.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-system-s.lib(Err.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-system-s.lib(ThreadLocal.cpp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in Animation.obj
+sfml-window-s.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-window-s.lib(VideoMode.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: __thiscall std::exception::exception(class std::exception const &)" (__imp_??0exception@std@@QAE@ABV01@@Z)
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)
+sfml-window-s.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)
+sfml-graphics-s.lib(jerror.obj) : error LNK2001: unresolved external symbol _fprintf
+sfml-graphics-s.lib(jerror.obj) : error LNK2001: unresolved external symbol ___iob_func
+sfml-graphics-s.lib(jerror.obj) : error LNK2001: unresolved external symbol _sprintf
+sfml-graphics-s.lib(jmemmgr.obj) : error LNK2001: unresolved external symbol _sscanf
+sfml-window-s.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::_Container_base12::~_Container_base12(void)" (__imp_??1_Container_base12@std@@QAE@XZ)
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall std::locale::facet::_Incref(void)" (__imp_?_Incref@facet@locale@std@@QAEXXZ)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall std::locale::facet::_Incref(void)" (__imp_?_Incref@facet@locale@std@@QAEXXZ)
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (__imp_?_Init@locale@std@@CAPAV_Locimp@12@XZ)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (__imp_?_Init@locale@std@@CAPAV_Locimp@12@XZ)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (__imp_?_Init@locale@std@@CAPAV_Locimp@12@_N@Z)
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::locale::facet * __thiscall std::locale::facet::_Decref(void)" (__imp_?_Decref@facet@locale@std@@QAEPAV123@XZ)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::locale::facet * __thiscall std::locale::facet::_Decref(void)" (__imp_?_Decref@facet@locale@std@@QAEPAV123@XZ)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "private: static void __cdecl std::locale::facet::_Facet_Register(class std::locale::facet *)" (?_Facet_Register@facet@locale@std@@CAXPAV123@@Z)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::bad_cast::bad_cast(char const *)" (__imp_??0bad_cast@std@@QAE@PBD@Z)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "public: virtual __thiscall std::bad_cast::~bad_cast(void)" (??1bad_cast@std@@UAE@XZ)
+sfml-system-s.lib(String.cpp.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(class std::bad_cast const &)" (??0bad_cast@std@@QAE@ABV01@@Z)
+sfml-system-s.lib(Err.cpp.obj) : error LNK2001: unresolved external symbol "protected: virtual class std::fpos<int> __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::seekoff(__int64,int,int)" (?seekoff@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE?AV?$fpos@H@2@_JHH@Z)
+sfml-system-s.lib(Err.cpp.obj) : error LNK2001: unresolved external symbol "protected: virtual class std::fpos<int> __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::seekpos(class std::fpos<int>,int)" (?seekpos@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE?AV?$fpos@H@2@V32@H@Z)
+sfml-system-s.lib(Err.cpp.obj) : error LNK2001: unresolved external symbol __imp____iob_func
+C:\Users\Kujo\Documents\mar 30- Game_2013\Game_2013\Release\Game_2013.exe : fatal error LNK1120: 17 unresolved externals

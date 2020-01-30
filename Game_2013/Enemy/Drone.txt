@@ -1,0 +1,7 @@
+Speed: 25.0
+Radius: 5.0
+FireType: 0
+FireSpeed: 50.0
+Damage: 0.0
+ParticleSystem: PSys/Test.txt
+Type: 2
